@@ -1,4 +1,4 @@
-# Astro
+# Next JS app with Astro template
 
 This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration. This demo showcases:
 
