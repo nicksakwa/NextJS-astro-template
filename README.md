@@ -1,21 +1,33 @@
-# Next JS app with Astro template
+# Hi there! 👋
 
-This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration. This demo showcases:
+This GitHub repository provides astro UI design with NextJS and Typescript
 
-- `/` - A static page (pre-rendered)
-- `/ssr` - A page that uses server-side rendering (through [Vercel Functions](https://vercel.com/docs/functions))
-- `/ssr-with-swr-caching` - Similar to the previous page, but also caches the response on the [Vercel Edge Network](https://vercel.com/docs/edge-network/overview) using `cache-control` headers
-- `/image` - Astro [Asset](https://docs.astro.build/en/guides/images/) using Vercel [Image Optimization](https://vercel.com/docs/image-optimization)
+# Next JS app with Astro template and Typescript
 
-Learn more about [Astro on Vercel](https://vercel.com/docs/frameworks/astro).
+This project was bootstrapped with Astro template
 
-## Deploy Your Own
+In the project directory, you can run:
+1.  **Node:** Which you can download from the [official Nodejs website](https://nodejs.org/en/download).
+2.  **Astro** framework and  library used in this project:
 
-Deploy your own Astro project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/astro&template=astro)
+    ```bash
+    git clone https://github.com/nicksakwa/NextJS-astro-template
+    ```
+    ```bash
+    pnpm install
+    ```
+## How to run this example
 
-_Live Example: https://astro-template.vercel.app_
+To execute the React JS app in this repository
+
+1.  Navigate to the directory containing the files in your terminal.
+2.  Run the desired script using the Python interpreter:
+    ```bash
+    pnpm run dev
+    ```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Project Structure
 
