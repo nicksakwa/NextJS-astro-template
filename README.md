@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-This GitHub repository provides astro UI design with NextJS and Typescript
+This GitHub repository provides astro web framework with Typescript
 
-# Next JS app with Astro template and Typescript
+# Web app with Astro web framework and Typescript
 
 This project was bootstrapped with Astro template
 
